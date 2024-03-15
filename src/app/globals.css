@@ -71,6 +71,7 @@
     @apply border-border;
   }
   body {
-    @apply bg-background text-foreground text-base;
+    @apply bg-background text-foreground bg-[url('/assets/background-img.png')] bg-repeat-x bg-[#f4f2ec] w-[1080px];
+    margin: 0 auto;
   }
 }
