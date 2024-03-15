@@ -52,9 +52,7 @@ export default function Home() {
                 height="170"
                 src="https://www.youtube.com/embed/RGUYb-hivrc?si=slkgkjo5o5zed6_S"
                 title="YouTube video player"
-                frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowfullscreen
               ></iframe>
             </article>
             <article className="float-left mr-5 mt-5">
