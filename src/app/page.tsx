@@ -64,7 +64,6 @@ export default function Home() {
                 width="310"
                 height="170"
                 loading="lazy"
-                referrerpolicy="no-referrer-when-downgrade"
               ></iframe>
             </article>
             <article className="float-left mr-5 max-w-[310px] mt-5">
