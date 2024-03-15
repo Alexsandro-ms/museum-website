@@ -17,7 +17,7 @@ export default function NavigationComponent() {
         {links.map((link, index) => (
           <li
             key={index}
-            className="float-left hover:text-[#227115] block mr-7 pb-1 uppercase hover:border-b-2 border-[#535858]"
+            className="float-left hover:text-[#227115] block mr-7 pb-1 uppercase"
           >
             <Link href={link.href}>{link.text}</Link>
           </li>
